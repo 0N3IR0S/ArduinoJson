@@ -20,10 +20,10 @@ void sendJson()
         doc["temperature"] = 23.4;
         doc["humidity"] = 41.1;
         doc["pressure"] = 95.52;
-        serializeJson(doc, buffer);
+        serializeJson(doc, buffer);     // serialize Json to buffer
         Serial.println(buffer);
 
-        lastMillis = millis();
+        lastMillis = millis();          // reset lastMillis
     }
 }
 
