@@ -1,11 +1,11 @@
 #include <Arduino.h>
 /*
-Description:  Tell something about this project.
+Description:  Small example for the ArduinoJson library.
 License:      This project is licensed under the terms of the MIT license.
-Github:       https://github.com/0N3IR0S/?????
+Github:       https://github.com/0N3IR0S/ArduinoJson
 
 Author:   Benjamin Buerge
-Created:  ??.??.????
+Created:  20.10.2020
 */
 
 // SETUP
