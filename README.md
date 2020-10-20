@@ -1,10 +1,5 @@
-### TO-DO
-- change README
-- change description and name
-- change License date
-
-# Project Title
-Really short description of the project.
+# ArduinoJson Example
+Small example for the ArduinoJson library.
 
 ### Description
 explain your project here in detail.
